@@ -1,0 +1,11 @@
+Release/
+Debug/*
+!Debug/EQC_Rev1.0.map
+!Debug/EQC_Rev1.0.out
+docs/~$3u_SystemDetails.xlsx
+.launches/
+
+
+
+
+/Debug/
